@@ -1,11 +1,11 @@
 Summary:	GNU patch Utilities
 Name:		patch
-Version:	2.7.4
+Version:	2.7.5
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/patch/%{name}-%{version}.tar.xz
-# Source0-md5:	abc59498fcdddd44e0d07764aa105fd2
+# Source0-md5:	e3da7940431633fb65a01b91d3b7a27a
 URL:		http://www.gnu.org/software/patch/patch.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
